@@ -1,0 +1,310 @@
+<=============1=============>
+Depot: Bạc Liêu
+Yên Châu --> Cái Tàu Hạ
+Thanh Xuân --> Phong Điền
+Ngọc Lặc --> Trảng Bom
+Tây Đằng --> Long Phú
+Thắng --> Chư Sê
+Hạ Hòa --> Thị Trấn Đất Đỏ
+Việt Trì --> Đức Phổ
+Thị Trấn Khánh Yên --> Duy Xuyên
+Thị Trấn Vị Xuyên --> M’Đrăk
+Yên Phú --> Lấp Vò
+Thiên Tồn --> Gò Dầu
+Mường Chiên --> Vĩnh Bình
+Tam Đường --> Cam Ranh
+Đình Lập --> Quảng Trị
+Vĩnh Bảo --> Mỹ Tho
+Điện Biên Đông --> Mỹ Thọ
+Quy Đạt --> Ba Tơ
+Bắc Giang --> Tầm Vu
+Bẩn Yên Nhân --> Phụng Hiệp
+Tam Điệp --> Phú Vang
+Lim --> Ninh Hòa
+Mê Linh --> Vạn Giã
+Văn Giang --> Lạc Dương
+Đông Hưng --> Biên Hòa
+Thị Trấn Tà Lùng --> Đắk Hà
+Xuân Trường --> Ea Drăng
+Cao Thượng --> Chợ Mới
+Tiên Lãng --> Tràm Chim
+Đô Lương --> Phan Rang-Tháp Chàm
+Bằng Lũng --> Quận Hai
+Yên Thành --> Nghĩa Hành
+Hậu Lộc --> Phù Cát
+Nam Đàn --> Sịa
+Như Quỳnh --> Trà Ôn
+Hương Sơn --> Tam Bình
+Hải Dương --> Ea Kar
+An Dương --> Vân Canh
+Lang Chánh --> Bình Đại
+Hưng Nguyên --> Tây Trà
+Cẩm Thủy --> Khe Sanh
+Yên Mỹ --> An Nhơn
+Phong Thổ --> Thủ Đức
+Hát Lót --> Nha Trang
+Sa Pa --> Nhà Bè
+Điện Biên Phủ --> Plei Kần
+Chi Nê --> Tánh Linh
+Cầu Diễn --> Quận Sáu
+Bắc Ninh --> Vĩnh Thạnh
+Yên Bái --> Chợ Lách
+Cô Tô --> Đại Lộc
+Phú Thọ --> Bù Đốp
+Cẩm Xuyên --> Thị Trấn Gành Hào
+Phố Châu --> Ea Súp
+Đu --> Mộ Đức
+An Lão --> Đắk Tô
+Thanh Sơn --> Gio Linh
+Phúc Yên --> Bồng Sơn
+Thái Nguyên --> Bình Minh
+Tây Hồ --> Prao
+Đà Bắc --> Ia Pa
+Đông Anh --> Đắk Mil
+Quảng Xương --> Đông Hà
+Huyện Chiêm Hóa --> Rạch Giá
+Văn Quan --> Hoài Ân
+Anh Sơn --> Vị Thanh
+Quán Hành --> Krông Kmar
+Tam Đảo --> Phước Vĩnh
+Quan Sơn --> Lắk
+Quỳ Hợp --> Hồ Xá
+Quan Hóa --> Cái Đôi Vàm
+Gia Lộc --> Ma Lâm
+Thị Trấn Nguyên Bình --> Đầm Dơi
+Bến Sung --> Thanh Khê
+<=============2=============>
+Depot: Bạc Liêu
+Hòa Mạc --> Yên Cát
+Hanoi --> Thị Trấn Thất Khê
+Sơn La --> Me
+Quán Lào --> Thạch Hà
+Bắc Hà --> Sông Mã
+Sốp Cộp --> Thanh Chương
+Đồng Mỏ --> Hòa Bình
+Yên Thịnh --> Thị Trấn Vĩnh Lộc
+Nghi Xuân --> Hồ
+Tĩnh Gia --> Si Ma Cai
+Triệu Sơn --> Thị Trấn Nước Hai
+Bình Mỹ --> Sơn Tây
+Bắc Kạn --> Mộc Châu
+Thái Bình --> Thị Trấn Xuân Hoà
+Quỳnh Côi --> Vân Tùng
+Đức Thọ --> Thứa
+Phúc Thọ --> Thị Trấn Yên Minh
+Sơn Dương --> Gia Bình
+Thọ Xuân --> Thị Trấn Đồng Văn
+Chũ --> Mường Xén
+Thị Trấn Tuần Giáo --> Yên Bình
+Ái Tử --> Thị Trấn Thuận Châu
+Liên Quan --> Phủ Lý
+Thường Xuân --> Phú Xuyên
+Cành Nàng --> Yên Lạc
+Yên Ninh --> Chúc Sơn
+Lâm --> Cát Bà
+Vũ Thư --> Hòa Bình
+Cổ Lễ --> Cầu Giấy
+Trâu Quỳ --> Pác Miầu
+Ngô Đồng --> Sơn Thịnh
+Văn Điển --> Thị Trấn Yên Thế
+Vân Đình --> Thị Trấn Na Sầm
+Lũng Hồ --> Thị Trấn Cao Lộc
+Vương --> Hà Đông
+Cẩm Phả --> Hưng Yên
+Núi Đối --> Mỹ Lộc
+Yên Lập --> Chùa Hang
+Trần Cao --> Chợ Chu
+Trôi --> Chờ
+Vĩnh Tường --> Kim Tân
+Hưng Hà --> Lào Cai
+Thanh Ba --> Thị Trấn Vĩnh Tuy
+Đoan Hùng --> Thị Trấn Mèo Vạc
+Kỳ Sơn --> An Châu
+Ít Ong --> Vũ Quang
+Thị Trấn Trạm Tấu --> Hàng Trạm
+Sóc Sơn --> Con Cuông
+Hương Khê --> Thường Tín
+Bộc Bố --> Nga Sơn
+Quán Hàu --> Thanh Nê
+Ba Đồn --> Cao Phong
+Núi Đèo --> Thanh Hà
+Hà Giang --> Thị Trấn Phố Lu
+Đồng Lê --> Tân Kỳ
+Thị Trấn Bảo Lạc --> Đồi Ngô
+Bút Sơn --> Quảng Hà
+Nghèn --> Thị Trấn Sìn Hồ
+Diễn Châu --> Khoái Châu
+Lương Bằng --> Bo
+Phùng --> Thị Trấn Thông Nông
+Lâm Thao --> Hoàn Kiếm
+Lai Châu --> Thị Trấn Hùng Quốc
+Sông Thao --> Thanh Miện
+Neo --> Đống Đa
+Quế --> Lập Thạch
+Hưng Hóa --> Kinh Môn
+Nam Sách --> Mường Ảng
+Quỳ Châu --> Phủ Thông
+Phát Diệm --> Bích Động
+Nam Giang --> Ninh Bình
+Hợp Hòa --> Mường Chà
+<=============3=============>
+Depot: Bạc Liêu
+Tân Châu --> A Yun Pa
+Lái Thiêu --> Thủ Dầu Một
+Đắk Song --> Dầu Tiếng
+Hội An --> Bến Tre
+Tô Hạp --> Đưc Trọng
+Ba Tri --> Ea T’ling
+Huỳnh Hữu Nghĩa --> Châu Đốc
+Trà Vinh --> Hòa Thành
+Quận Năm --> Phước An
+Nhơn Trạch --> Tân Châu
+Bác Ái --> Phú Phong
+Thị Trấn Phước Bửu --> Buôn Ma Thuột
+Chí Thạnh --> Phước Dân
+Cái Nước --> Cần Thơ
+Thị Trấn Giá Rai --> Hậu Nghĩa
+Nhà Bàng --> Di Linh
+Bến Cầu --> Kiên Lương
+Lai Vung --> Ho Chi Minh City
+Phú Lộc --> Ngũ Hành Sơn
+Cẩm Lệ --> Thủ Thừa
+Tri Tôn --> Thị Trấn Long Điền
+Vĩnh Hưng --> Trà My
+Kông Chro --> Tiểu Cần
+Quận Mười Một --> Phú Túc
+Lộc Thắng --> Phú Quốc
+Củng Sơn --> A Lưới
+Quảng Phú --> U Minh
+Quế Sơn --> Trà Bồng
+An Lão --> Tiên Phước
+Hóc Môn --> Củ Chi
+Phú Hòa --> Kon Plông
+Đồng Xoài --> Cần Giờ
+Thị Trấn Phước Long --> Đồng Xuân
+Tây Ninh --> Trà Cú
+Đức Phong --> Phú Lộc
+Cam Lộ --> Tân Trụ
+Tam Kỳ --> Long Mỹ
+Đinh Văn --> Kế Sách
+Mỹ Xuyên --> Lý Sơn
+Long Thành --> Sơn Hà
+An Biên --> Trảng Bàng
+Cam Ranh --> Thống Nhất
+Bến Lức --> Côn Đảo
+Cù Lao Dung --> Vũng Tàu
+Điện Bàn --> Quận Bình Thạnh
+Liên Chiểu --> Tân Hiệp
+Sông Cầu --> Hòn Đất
+Tân Hòa --> Thuận Nam
+Phú Ninh --> Thị Trấn Hòa Bình
+Tân Uyên --> Đăk Đoa
+Bình Sơn --> Thạnh Hóa
+Tân Hưng --> Đồng Nai
+Thạnh Phú --> Núi Sập
+Đà Nẵng --> Hiệp Đức
+Thị Trấn Phú Mỹ --> Quảng Hà
+Hà Tiên --> Đà Lạt
+Tân Hiệp --> Bình Long
+Phong Điền --> Long Khánh
+Minh Lương --> Mỏ Cày
+Quy Nhơn --> Phú Quý
+Phú Mỹ --> Thứ Mười Một
+Châu Thành --> Minh Long
+Ngọc Hiển --> Huế
+Ngã Sáu --> Đắk Rve
+Đạ Tẻh --> Đắk Mâm
+Quận Phú Nhuận --> Tân Sơn
+Tân An --> Ma Đa Gui
+K Bang --> Krông Klang
+Vĩnh Thuận --> Hai Riêng
+Hải Lăng --> Mỹ Phước
+Hòa Vang --> Tư Nghĩa
+Diên Khánh --> Long Xuyên
+Một Ngàn --> Cam Lâm
+Dương Minh Châu --> Châu Thành
+Sơn Trà --> Quảng Ngãi
+Cái Răng --> Long Hồ
+Kiến Giang --> Bình Thủy
+Cần Đước --> Vĩnh An
+<=============4=============>
+Depot: Bạc Liêu
+Châu Thành --> Thị Trấn Phố Ràng
+Thị Trấn Ngải Giao --> Bát Xát
+Thạnh Mỹ --> Kim Bài
+Vĩnh Long --> Mai Châu
+Quận Chín --> Thị Trấn Mường Tè
+Quận Một --> Bình Gia
+Tân Biên --> Nam Định
+Quận Tân Phú --> Thị Trấn Đông Khê
+Quận Ba --> Cao Bằng
+Nàng Mau --> Ân Thi
+Bảo Lộc --> Kim Sơn
+Sơn Tịnh --> Tân Việt
+Gia Nghĩa --> Tứ Kỳ
+Giồng Trôm --> Thị Trấn Quảng Uyên
+Chư Prông --> Phố Mới
+Thới Bình --> Lộc Bình
+Phù Mỹ --> Thanh Lưu
+An Phú --> Cầu Gồ
+Mang La --> Vôi
+Ia Kha --> Yến Lạc
+Khe Tre --> Diêm Điền
+Chơn Thành --> Thanh Hóa
+Pleiku --> Thị Trấn Vinh Quang
+Sa Rài --> Tuyên Quang
+Krông Năng --> Cầu Giát
+Cao Lãnh --> Bắc Yên
+Hương Trà --> Nông Cống
+Liên Hương --> Cổ Phúc
+Phan Thiết --> Chợ Mới
+Sa Thầy --> Phong Châu
+Tân Phú --> Trới
+Vĩnh Châu --> Chợ Rã
+Tuy Phước --> Thị Trấn Tam Sơn
+Cái Nhum --> Hữu Lũng
+Thanh Bình --> Vinh
+Giồng Riềng --> Quốc Oai
+Lộc Ninh --> Móng Cái
+Năm Căn --> Hà Tĩnh
+Hà Lam --> Kẻ Sặt
+Châu Thành --> Phù Yên
+Kon Dơng --> Nho Quan
+Dĩ An --> Hương Canh
+Cầu Kè --> Vĩnh Trụ
+Duyên Hải --> Hoàn Lão
+Buôn Trấp --> Vĩnh Yên
+Ấp Đa Lợi --> Thị Trấn Việt Quang
+An Châu --> Lai Cách
+Vĩnh Thạnh --> Gôi
+Thốt Nốt --> Mường Nhé
+Võ Xu --> Thị Trấn Tân Yên
+Đắk Glei --> Vĩnh Lộc
+Gò Quao --> Thị Trấn Thanh Nhật
+Quận Bốn --> Thị Trấn Na Hang
+Kiến Đức --> Đại Nghĩa
+Chư Ty --> Quảng Yên
+Cà Mau --> Mường Lát
+Quận Mười --> Phú Thái
+Vũng Liêm --> Thị Trấn Mường Khương
+Tuy Hòa --> Kỳ Anh
+Tân Túc --> Lương Sơn
+Cần Giuộc --> Bắc Sơn
+Cái Dầu --> Lạng Sơn
+Khánh Vĩnh --> Than Uyên
+Chợ Lầu --> Thị Trấn Việt Lâm
+Ô Môn --> Ba Đình
+Tân Thạnh --> Hai BàTrưng
+Núi Thành --> Thị Trấn Trùng Khánh
+Trần Văn Thời --> Mù Cang Chải
+Thới Lai --> Vụ Bản
+Cờ Đỏ --> Thanh Thủy
+Chợ Gạo --> Thị Trấn Tủa Chùa
+Tân Phú --> Đồng Hới
+Quận Bảy --> Hạ Long
+Đông Thành --> Vạn Hà
+Gia Ray --> Mường Khến
+Sóc Trăng --> Liễu Đề
+Ngã Bảy --> Haiphong
+Thị Trấn Ngan Dừa --> Ninh Giang
+Sa Đéc --> Yên Định
