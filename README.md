@@ -30,3 +30,11 @@ In this project, I use several algorithms to solve the problem:
   * Genetic algorithm
 
 # Case study:
+## Description of dataset
+
+I use [ dataset 609 cities of Vietnam](https://simplemaps.com/data/vn-cities). Hence, there are __304__ pickup points and __304__ destination points, each of them correspond to a passenger.  
+
+The dataset contains the name, latitude, longitude of 609 cities.  
+
+Here is the visualization of 609 cities of Vietnam:  
+<img src="https://user-images.githubusercontent.com/121554894/216872620-13f854f9-eddf-4ab6-8069-c8fa9afe27c4.png" width="400" height="300">. 
