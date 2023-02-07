@@ -52,6 +52,7 @@ def random_configuration(num_buses, num_passengers):
     return uniform_confs
 
 def generate_distance_matrix(matrix_dist, list_passengers):
+    
     return matrix_dist[list_passengers, :][:, list_passengers]
 
 def decode_cities(list_passengers, config):
@@ -75,7 +76,7 @@ def decode_cities(list_passengers, config):
 
 
 if __name__ == "__main__":
-    num_cities = 21
+    num_cities = 15
     num_buses = 3
     buses_capacities = [2,3,3]
 
@@ -83,8 +84,25 @@ if __name__ == "__main__":
     num_passengers = int((len(matrix_distance) - 1) / 2)
 
     dict_schedules = random_configuration(num_buses, num_passengers)
-
-
+    print(f"Number of cities: {num_cities}")
+    print(f"Number of passengers: {num_passengers}")
+    print(f"Number of buses: {num_buses}")
+    opti_cost = 1e9
+    lst_cost = list()
+    opti_start_time = time.time()
+    lst_schedule = branch_bound.generate_schedule_for_buses(num_buses, num_passengers)
+    for i in range(len(lst_schedule)):
+        schedule = lst_schedule[i]
+        sub_opti_cost = 0
+        for bus in range(num_buses):
+            dist_matr = generate_distance_matrix(matrix_distance, schedule[bus+1])
+            sub_opti_cost += branch_bound.optimal_path(dist_matr, buses_capacities[bus])[0]
+        lst_cost.append(sub_opti_cost)
+        if opti_cost > sub_opti_cost:
+            opti_cost = sub_opti_cost
+    opti_end_time = time.time()
+    print(f"Optimal cost: {opti_cost}, time: {round(opti_end_time - opti_start_time, 4)}")
+    # print(f"List cost: {lst_cost}")
     branch_bound_cost = 0
     greedy_cost = 0
     hill_climbing_cost = 0
@@ -102,9 +120,9 @@ if __name__ == "__main__":
         bb = branch_bound.optimal_path(matrix_dist_of_a_bus, buses_capacities[id_bus-1])
         branch_bound_cost += bb[0]
         opti_schedule = decode_cities(schedule, bb[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_branch_bound = time.time() - branch_bound_start_time
-    print(f"Branch and bound algorithm, cost: {branch_bound_cost}, time: {time_branch_bound} second")    
+    print(f"Branch and bound (modified version) algorithm, cost: {branch_bound_cost}, time: {round(time_branch_bound, 4)} second")    
 
     greedy_start_time = time.time()
     for id_bus, schedule in dict_schedules.items():
@@ -116,7 +134,7 @@ if __name__ == "__main__":
         gd = Greedy.greedy_search()
         greedy_cost += gd[0]
         opti_schedule = decode_cities(schedule, gd[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_greedy = time.time() - greedy_start_time
     print(f"Greedy algorithm, cost: {greedy_cost}, time: {round(time_greedy, 4)} second")    
 
@@ -130,7 +148,7 @@ if __name__ == "__main__":
         hl = Hill_Climbing.Metaheuristic_Hill_Climbing()
         hill_climbing_cost += hl[0]
         opti_schedule = decode_cities(schedule, hl[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_hl = time.time() - hl_start_time
     print(f"Metaheuristic Hill Climbing algorithm, cost: {hill_climbing_cost}, time: {round(time_hl, 4)} second")    
         
@@ -144,7 +162,7 @@ if __name__ == "__main__":
         uc = Uniform_Cost.uniform_cost_search()
         uc_cost += uc[0]
         opti_schedule = decode_cities(schedule, uc[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_uc = time.time() - uc_start_time
     print(f"Uniform cost search algorithm, cost: {uc_cost}, time: {round(time_uc, 4)} second")    
 
@@ -158,7 +176,7 @@ if __name__ == "__main__":
         beam = Beam_Search.beam_search()
         beam_cost += beam[0]
         opti_schedule = decode_cities(schedule, beam[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_beam = time.time() - beam_start_time
     print(f"Beam search algorithm, cost: {beam_cost}, time: {round(time_beam, 4)} second")    
         
@@ -172,7 +190,7 @@ if __name__ == "__main__":
         rt= Randomize.randomized_travel(num_examples=100)
         randomized_travel_cost += rt[0]
         opti_schedule = decode_cities(schedule, rt[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_randomize = time.time() - randomize_start_time
     print(f"Randomized travel algorithm, cost: {randomized_travel_cost}, time: {round(time_randomize, 4)} second")    
         
@@ -186,7 +204,7 @@ if __name__ == "__main__":
         GA = ga.random_travel_2()
         ga_cost += GA[0]
         opti_schedule = decode_cities(schedule, GA[1])
-        print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
+        # print(f"Bus ID {id_bus}, schedule: {opti_schedule}")
     time_ga = time.time() - ga_start_time
     print(f"Genetic algorithm, cost: {ga_cost}, time: {round(time_ga, 4)} second")    
         
